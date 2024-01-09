@@ -1,0 +1,8 @@
+C:\Users\willi\source\repos\Excepciones\bin\Debug\Excepciones.exe.config
+C:\Users\willi\source\repos\Excepciones\bin\Debug\Excepciones.exe
+C:\Users\willi\source\repos\Excepciones\bin\Debug\Excepciones.pdb
+C:\Users\willi\source\repos\Excepciones\obj\Debug\Excepciones.csproj.AssemblyReference.cache
+C:\Users\willi\source\repos\Excepciones\obj\Debug\Excepciones.csproj.SuggestedBindingRedirects.cache
+C:\Users\willi\source\repos\Excepciones\obj\Debug\Excepciones.csproj.CoreCompileInputs.cache
+C:\Users\willi\source\repos\Excepciones\obj\Debug\Excepciones.exe
+C:\Users\willi\source\repos\Excepciones\obj\Debug\Excepciones.pdb
